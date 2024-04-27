@@ -2,6 +2,10 @@
 title = Test_AND_APP
 package.name = com.example.Test_AND_APP
 source.dir = .
+# Add this line
+osx.python_version = 3
+android.arch = armeabi-v7a
+android.sdk = C:/Users/arqam.mirza/AppData/Local/Android/Sdk
 
 source.include_exts = py,png,jpg,kv,atlas
 
